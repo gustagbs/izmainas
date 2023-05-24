@@ -1,0 +1,2 @@
+# izmainas
+darbs programmesanai
